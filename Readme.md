@@ -1,16 +1,5 @@
 # Modelo entidad/relación: Viveros
 
-**Asignatura:** Administración y diseño de bases de datos, curso 2026-2027.  
-**Escenario:** Tajinaste S.A.
-
-## Modelo
-
-![Modelo entidad/relación de Tajinaste S.A.](modelo-viveros.png)
-
-El archivo [modelo-viveros.drawio](modelo-viveros.drawio) contiene el diagrama editable en Draw.io. El modelo utiliza notación de Chen: rectángulos para entidades, rombos para relaciones y óvalos para atributos. Las claves están subrayadas y los atributos derivados tienen un contorno discontinuo.
-
-La pareja `(mínimo, máximo)` junto a una entidad indica cuántas veces puede participar **cada instancia de esa entidad** en la relación. `N` representa un número arbitrario de participaciones; un mínimo de `0` indica participación opcional y un mínimo de `1`, obligatoria.
-
 ## 1. Entidades
 
 | Entidad | Descripción | Identificador |
